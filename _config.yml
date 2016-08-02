@@ -17,12 +17,12 @@ social:
   - title: tree
     name: Tyler Mitchell
     url: http://tylermitchell.org
-  - title: camera
-    name: Don Kerrigan
-    url: http://donkerrigan.com
   - title: github
     name: github
     url: https://github.com/preservation-imagery
+  - title: camera
+    name: Don Kerrigan
+    url: http://donkerrigan.com
 
 # Build settings
 markdown: kramdown
