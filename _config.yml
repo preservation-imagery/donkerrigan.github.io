@@ -20,9 +20,6 @@ social:
   - title: camera
     name: Don Kerrigan
     url: http://donkerrigan.com
-  - title: bitbucket
-    name: Bitbucket
-    url: http://bitbucket.org/jekyll
   - title: github
     name: github
     url: https://github.com/preservation-imagery
