@@ -20,9 +20,6 @@ social:
   - title: camera
     name: Don Kerrigan
     url: http://donkerrigan.com
-  - title: stack-overflow
-    name: Stack Overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
     name: Bitbucket
     url: http://bitbucket.org/jekyll
