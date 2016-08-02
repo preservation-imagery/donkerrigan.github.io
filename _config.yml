@@ -21,10 +21,13 @@ social:
     name: Don Kerrigan
     url: http://donkerrigan.com
   - title: stack-overflow
+    name: Stack Overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
+    name: BitBucket
     url: http://bitbucket.org/jekyll
   - title: github
+    name: Github
     url: https://github.com/preservation-imagery
 
 # Build settings
