@@ -14,15 +14,20 @@ footer: Your Website
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: Tyler Mitchell
+  - title: tree
+    name: Tyler Mitchell
     url: http://tylermitchell.org
-  - title: Don Kerrigan
+  - title: camera
+    name: Don Kerrigan
     url: http://donkerrigan.com
   - title: stack-overflow
+    name: Stack Overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
+    name: Bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
+    name: github
     url: https://github.com/preservation-imagery
 
 # Build settings
