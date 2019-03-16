@@ -22,7 +22,7 @@ social:
     url: https://github.com/preservation-imagery
   - title: tree
     name: Tyler Mitchell
-    url: http://tylermitchell.org
+    url: http://tylermitchell.xyz
 
 # Build settings
 markdown: kramdown
